@@ -1,9 +1,10 @@
 import { Wrapper } from "./style";
+import BlogHeader from "../blogHeader/BlogHeader";
 
 const Layout = () => {
   return (
     <Wrapper>
-      Layout
+      <BlogHeader />
     </Wrapper>
   );
 };
