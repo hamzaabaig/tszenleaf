@@ -1,0 +1,15 @@
+export const color = {
+  primary: "#000",
+  secondary: "#181818",
+  blue: "#346cb6",
+  darkBlue: "#215293",
+  skyBlue: "#1DA1F2",
+  brightBlue: "#028ee3",
+  mutedGreen: "#79a579",
+  lightGreen: "#4d664d",
+  green: "#b9dabc",
+  darkGray: "#474747",
+  lightGray: "#f2f2f2",
+  mediumGray: "#c5c5c5",
+  softGray: "#e5e5e5",
+};
