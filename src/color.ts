@@ -1,7 +1,7 @@
 export const color = {
   primary: "#000",
   secondary: "#181818",
-  blue: "#346cb6",
+  defaultBlue: "#346cb6",
   darkBlue: "#215293",
   skyBlue: "#1DA1F2",
   brightBlue: "#028ee3",
