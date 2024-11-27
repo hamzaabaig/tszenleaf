@@ -2,7 +2,7 @@ import styled from "styled-components";
 import tw from "twin.macro";
 
 const Wrapper = styled.div`
-  ${tw`grid grid-cols-1 lg:grid-cols-12 gap-4 items-center p-3 md:p-8`}
+  ${tw`grid grid-cols-1 lg:grid-cols-12 gap-4 items-center p-1 md:p-8`}
 `;
 
 const ContentWrapper = styled.div`
@@ -10,7 +10,7 @@ const ContentWrapper = styled.div`
 `;
 
 const ImageWrapper = styled.div`
-  ${tw`lg:col-span-7`}
+  ${tw`order-first lg:order-last lg:col-span-7`}
 `;
 
 const ReadMoreButton = styled.button`
